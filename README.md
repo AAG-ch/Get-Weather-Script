@@ -1,6 +1,6 @@
 # Get-Weather-Script
 
-Bash script to get current weather data from openweathermap.org. Free API key needed.
+Bash script to get current weather data from openweathermap.org and print it to stdout. Free openweathermap API key needed.
 
 Prints output in metric system:
 
